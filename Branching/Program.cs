@@ -9,6 +9,9 @@ namespace Branching
             Console.WriteLine("Hello Tienesh!");
             Console.WriteLine("Hello Ms. Watson!");
             Console.WriteLine("Hello God!");
+            Console.WriteLine("Hello Boy!");
+            Console.WriteLine("Hello Ms. Akintof!");
+            Console.WriteLine("Hello Brother!");
 
         }
     }
