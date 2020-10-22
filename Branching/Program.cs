@@ -8,6 +8,8 @@ namespace Branching
         {
             Console.WriteLine("Hello World!");
 
+
+            Console.WriteLine("Shall we play a game, Dmitri?");
             Console.WriteLine("Shall we play a game?");
         }
     }
