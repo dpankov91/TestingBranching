@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dpank\\Documents\\GitHub\\TestingBranching\\Branching\\Branching.csproj": {}
+    "C:\\New Work\\TestingBranching\\Branching\\Branching.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dpank\\Documents\\GitHub\\TestingBranching\\Branching\\Branching.csproj": {
+    "C:\\New Work\\TestingBranching\\Branching\\Branching.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dpank\\Documents\\GitHub\\TestingBranching\\Branching\\Branching.csproj",
+        "projectUniqueName": "C:\\New Work\\TestingBranching\\Branching\\Branching.csproj",
         "projectName": "Branching",
-        "projectPath": "C:\\Users\\dpank\\Documents\\GitHub\\TestingBranching\\Branching\\Branching.csproj",
-        "packagesPath": "C:\\Users\\dpank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dpank\\Documents\\GitHub\\TestingBranching\\Branching\\obj\\",
+        "projectPath": "C:\\New Work\\TestingBranching\\Branching\\Branching.csproj",
+        "packagesPath": "C:\\Users\\tiene\\.nuget\\packages\\",
+        "outputPath": "C:\\New Work\\TestingBranching\\Branching\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dpank\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tiene\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

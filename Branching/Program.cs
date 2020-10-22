@@ -7,6 +7,8 @@ namespace Branching
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            Console.WriteLine("Shall we play a game?");
         }
     }
 }
