@@ -6,7 +6,9 @@ namespace Branching
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Tienesh!");
+            Console.WriteLine("Hello Ms. Watson!");
+
         }
     }
 }
